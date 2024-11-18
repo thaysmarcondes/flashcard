@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual é o maior continente do mundo em termos de área e população?',
-    'A Asia'
+    'A Asia, com cerca de 44,58 milhões de km² de área, e com 4,5 bilhões de pessoas'
 )
 
 criaCartao(
@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz bonito em Inglês?',
-    'Bonito em ingles é beautiful (biurifol)'
+    'Bonito em ingles é beautiful'
 )
 
 criaCartao(

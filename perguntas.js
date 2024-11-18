@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual é o maior continente do mundo em termos de área e população?',
-    'A Asia, com cerca de 44,58 milhões de km² de área, e com 4,5 bilhões de pessoas'
+    'A Asia, com área de 44,58 milhões de km², e com 4,5 bilhões de pessoas'
 )
 
 criaCartao(

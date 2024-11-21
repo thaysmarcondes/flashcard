@@ -23,14 +23,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'História,
+    'O que foi a revolução francesa?',
+    'A revolução francesa (1789) derrubou a monarquia e buscou liberdade e igualdade, devido a crises sociais e financeiras'
 )
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Língua portuguesa,
+    'Qual a função do sujeito na oração?',
+    'O sujeito é quem realiza ou recebe a ação. Pode ser simples, composto, implícito, indeterminado ou inexistente'
 )
